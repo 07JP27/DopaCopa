@@ -1,7 +1,7 @@
 # DopaCopa
 
-Copilot の作業イベントを、パチンコ風の演出と効果音で眺める実験的な Canvas 拡張です。
-A pachinko-inspired live Copilot Canvas with event-driven visual effects and sound.
+Copilot の作業イベントを、ソシャゲ風の演出と効果音で眺める実験的な Canvas 拡張です。
+A social-game-inspired live Copilot Canvas with event-driven visual effects and sound.
 
 ## インストール
 
